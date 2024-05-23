@@ -19,8 +19,9 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ## Papers Under Review
 
-- [Deep learning and computer vision will transform entomology]([https://www.pnas.org/doi/abs/10.1073/pnas.2002545117))TT Høye, J Ärje, K Bjerge
-- [Deep learning and computer vision will transform entomology]([https://www.pnas.org/doi/abs/10.1073/pnas.2002545117))TT Høye, J Ärje, K Bjerge
+- [From Social to Purchase: Customer Selection in Social Group Buying]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229)), with Shaochong Lin, Zuo-Jun Max Shen, minor revision at Production and Operations Management.
+- [Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422)), with JingboWang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
+- [How the Platform Enables Creators: An AI Feedback Perspective]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961)), with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science.
 
 
 {% include_relative _includes/services.md %}
