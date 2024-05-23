@@ -19,14 +19,23 @@ Yan's current research primarily examines various facets of online platforms, in
 
 ## Papers Under Review
 
-- [From Social to Purchase: Customer Selection in Social Group Buying]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229]), with Shaochong Lin, Zuo-Jun Max Shen, minor revision at Production and Operations Management.
-- [Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422]), with JingboWang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
-- [How the Platform Enables Creators: An AI Feedback Perspective]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961]), with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science.
+- [From Social to Purchase: Customer Selection in Social Group Buying]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082229)), with Shaochong Lin, Zuo-Jun Max Shen, minor revision at Production and Operations Management.
+- [Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4622422)), with JingboWang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang, major revision at Marketing Science.
+- [How the Platform Enables Creators: An AI Feedback Perspective]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769961)), with Shaochong Lin, Zhou Zhou, Zuo-Jun Max Shen, in submission to Management Science.
 
 ## Selected Working Paper
 
-- [The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable
-Approach], with Xinyu Cao, JingboWang, Zuo-Jun Max Shen, in preparation for submission.
+- The Heterogeneous Treatment Effect of Bullet Chats: An Instrumental-Variable
+Approach, with Xinyu Cao, JingboWang, Zuo-Jun Max Shen, in preparation for submission.
+
+## Conference Present
+
+**“From Social to Purchase: Customer Selection in Social Group Buying”**
+- 13th POMS-HK International Conference, 2023
+
+
+
+
 
 
   
