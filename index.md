@@ -33,7 +33,9 @@ Approach, with Xinyu Cao, JingboWang, Zuo-Jun Max Shen, in preparation for submi
 **“From Social to Purchase: Customer Selection in Social Group Buying”**
 - 13th POMS-HK International Conference, 2023
 
-
+**“Selecting Creators to Sign on a Content-Sharing Platform: A Deep-DiD Approach”**
+- Marketing and the Creator Economy Conference, Columbia University, 2023
+- 14th POMS-HK International Conference, 2024
 
 
 
